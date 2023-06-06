@@ -8,6 +8,6 @@ iPhone:
 ![Screenshot](iPhone3.png)]
 
 Android:
-![Screenshot](Andriod1.png)]
-![Screenshot](Andriod2.png)]
-![Screenshot](Andriod3.png)]
+![Screenshot](Android1.png)]
+![Screenshot](Android2.png)]
+![Screenshot](Android3.png)]
